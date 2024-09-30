@@ -1,0 +1,12 @@
+body{
+background-color: blanchedalmond;
+font-family: 'Bai Jamjuree';
+}
+
+#container {
+    display: flex;
+}
+
+.cartao {
+margin: irem irem;
+}
