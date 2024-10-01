@@ -9,7 +9,7 @@ font-family: 'Bai Jamjuree';
 
 .cartao {
 margin: 1rem 1rem;
-background-color: rgb(82, 82, 13);
+background-color: rgb(200, 200, 75);
 height: 20rem;
 flex-grow: 1;
 flex-basis: calc(33% - 6rem);
