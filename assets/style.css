@@ -9,7 +9,7 @@ font-family: 'Bai Jamjuree';
 
 .cartao {
 margin: 1rem 1rem;
-background-color: cadetblue;
+background-color: cyan;
 height: 20rem;
 flex-grow: 1;
 flex-basis: calc(33% - 6rem);
@@ -36,7 +36,7 @@ height: 100%;
 }
 
 footer {
-    background-color: black;
+    background-color: white;
     color: white;
     position: fixed;
     bottom: 0;
