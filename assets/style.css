@@ -22,8 +22,11 @@ flex-basis: calc(33% - 6rem);
 }
 
 .cartao__conteudo {
-text-align: center;
-height: 100%;
+    background-color: var(--card-front-color);
+    text-align: center;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: transform 300ms ease-in-out;
 }
 
 .cartao__conteudo h3 {
@@ -47,8 +50,12 @@ height: 100%;
 }
 
 .cartao__conteudo_resposta p {
-    color var(--card-back-color);
+    color: var(--card-back-color);
     font-weight: 700;
+}
+
+.cartao:hover .cartao__conteudo {
+    transform: rotateY(180deg);
 }
 
 footer {
