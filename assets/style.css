@@ -67,6 +67,11 @@ flex-basis: calc(33% - 6rem);
     height: 100%;
     width: 100%;
 }
+
+.cartao__conteudo_resposta{
+    transform: rotateY(180deg);
+}
+
 footer {
     background-color: white;
     color: black;
