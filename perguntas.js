@@ -1,30 +1,41 @@
-criaCartao(
-    'Teste de conhecimento(1)',
-    'O nathan é gay?',
-    'sim'
+CriaCartao ( 
+    'Curiosidades sobre o espaço', 
+    'Qual é o maior planeta do Sistema Solar?', 
+    'Júpiter' 
 )
-criaCartao(
-    'Teste de conhecimento(2)',
-    'O nathan é retardado?',
-    'sim'
+
+CriaCartao ( 
+    'História do Brasil', 
+    'Em que ano foi proclamada a independência do Brasil?', 
+    '1822' 
 )
-criaCartao(
-    'Teste de conhecimento(3)',
-    'O nathan da o cu?',
-    'sim'
+
+CriaCartao (
+    'Processo',
+    'Porque o professor Weslly quer processar o Nathan?',
+    'Porquer o Nathan enche o saco dele todas as aulas'
 )
-criaCartao(
-    'Teste de conhecimento(4)',
-    'O nathan é adotado?',
-    'sim'
+
+CriaCartao ( 
+    'Ciência', 
+    'Qual é o elemento químico mais abundante na atmosfera terrestre?', 
+    'Nitrogênio' 
 )
-criaCartao(
-    'Teste de conhecimento(5)',
-    'O nathan sabe japonês?',
-    'sim'
+
+CriaCartao ( 
+    'Geografia', 
+    'Qual é o país mais populoso do mundo?', 
+    'China' 
 )
-criaCartao(
-    'Teste de conhecimento(6)',
-    'O nathan ?',
-    'sim pergunta sim'
+
+CriaCartao ( 
+    'Matemática', 
+    'Qual é o valor de π (pi) arredondado para duas casas decimais?', 
+    '3.14' 
+)
+
+CriaCartao ( 
+    'Esportes', 
+    'Qual país venceu a Copa do Mundo de futebol em 1978?', 
+    'Argentina' 
 )
