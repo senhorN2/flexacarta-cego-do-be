@@ -26,5 +26,5 @@ criaCartao(
 criaCartao(
     'Teste de conhecimento(6)',
     'O nathan ?',
-    'sim'
+    'sim pergunta sim'
 )
