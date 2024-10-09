@@ -1,41 +1,41 @@
 CriaCartao ( 
-    'Curiosidades sobre o espaço', 
-    'Qual é o maior planeta do Sistema Solar?', 
-    'Júpiter' 
+    'Cancer de pulmão', 
+    'Qual é o melhor professor da escola?', 
+    'lider' 
 )
 
 CriaCartao ( 
-    'História do Brasil', 
-    'Em que ano foi proclamada a independência do Brasil?', 
-    '1822' 
+    'incidente', 
+    'o que lego andré repetiu para tentar acalmar uma briga entre alunos?', 
+    'separa' 
 )
 
 CriaCartao (
-    'Processo',
-    'Porque o professor Weslly quer processar o Nathan?',
-    'Porquer o Nathan enche o saco dele todas as aulas'
+    'altura',
+    'qual o aluno mais alto de toda a escola?',
+    'alanna'
 )
 
 CriaCartao ( 
-    'Ciência', 
-    'Qual é o elemento químico mais abundante na atmosfera terrestre?', 
-    'Nitrogênio' 
+    'comida', 
+    'quantos pratos o nathan come no recreio?', 
+    'todos' 
 )
 
 CriaCartao ( 
-    'Geografia', 
-    'Qual é o país mais populoso do mundo?', 
-    'China' 
+    'jack', 
+    'quantos minutos por aula é gasto aprendendo historia com o marcio?', 
+    '0' 
 )
 
 CriaCartao ( 
-    'Matemática', 
-    'Qual é o valor de π (pi) arredondado para duas casas decimais?', 
-    '3.14' 
+    'matematica', 
+    'quanto é 86 - 62?', 
+    'ishi' 
 )
 
 CriaCartao ( 
-    'Esportes', 
-    'Qual país venceu a Copa do Mundo de futebol em 1978?', 
-    'Argentina' 
+    '12', 
+    'qual o jogo favorito de douglas?', 
+    'fortnite' 
 )
