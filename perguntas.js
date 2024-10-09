@@ -39,3 +39,21 @@ CriaCartao (
     'qual o jogo favorito de douglas?', 
     'fortnite' 
 )
+
+CriaCartao ( 
+    '12', 
+    'qual o jogo favorito de douglas?', 
+    'fortnite' 
+)
+
+CriaCartao ( 
+    '12', 
+    'qual o jogo favorito de douglas?', 
+    'fortnite' 
+)
+
+CriaCartao ( 
+    '12', 
+    'qual o jogo favorito de douglas?', 
+    'fortnite' 
+)
