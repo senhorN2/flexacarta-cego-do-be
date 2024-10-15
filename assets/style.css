@@ -5,7 +5,7 @@
 }
 
 body {
-     background: url('img/bg-desktop.webp');
+    background: url('img/bg-desktop.webp');
     font-family: 'Bai Jamjuree';
 }
 
@@ -101,14 +101,14 @@ footer p {
     }
 
     .cartao {
-        flex: 1 0 calc(100% - 1rem)
+    flex: 1 0 calc(100% - 1rem)
     }
 
-    .cartao__conteudo h3 {
+    .cartao_conteudo h3 {
         font-size: 3vw;
     }
 
-    .cartao__conteudo p {
+    .cartao_conteudo p {
         font-size: 3.8vw;
     }
 }
