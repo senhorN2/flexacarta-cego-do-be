@@ -41,19 +41,19 @@ CriaCartao (
 )
 
 CriaCartao ( 
-    '12', 
-    'qual o jogo favorito de douglas?', 
-    'fortnite' 
+    'Cancer de pulmão 2', 
+    'qual a marca favorita de cigarro do lider?', 
+    'malbouro' 
 )
 
 CriaCartao ( 
-    '12', 
-    'qual o jogo favorito de douglas?', 
-    'fortnite' 
+    'funner', 
+    'raio irrita ___?', 
+    '...' 
 )
 
 CriaCartao ( 
-    '12', 
-    'qual o jogo favorito de douglas?', 
-    'fortnite' 
+    'fps', 
+    'guga apoiava a ideia de um componente computacional melhorar a performace de jogos no computador, qual era esse componente?', 
+    'ssd' 
 )
